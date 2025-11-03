@@ -3,104 +3,113 @@
 ## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
 ## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
 
-Chillhop Music (jazzy & lofi hip hop beats) || Chillhop.yt || Music
-https://www.youtube.com/watch?v=5yx6BWlEVcY
+AajTak || aajtak.yt || News
+https://www.youtube.com/watch?v=gH6ftEJDLGo
 
-Avex J-Pop 24/7 || Avex.yt || Music
-https://www.youtube.com/watch?v=tr77RbnfYIU
+ABP News || ABPNews.yt || News
+https://www.youtube.com/watch?v=5BTiKEvKMnE
 
-Tomorrowland: One World Radio || TOWR.yt || Music
-https://www.youtube.com/watch?v=wBgSH-CGPzg
+NDTV India || ndtvindia.yt || News
+https://www.youtube.com/watch?v=cccev7fYB3M
 
-JapanesePod101 Live || JPod101.yt || Education
-https://www.youtube.com/watch?v=c3nH0tIpK68
+NDTV Rajasthan || NDTVRajasthan.yt || News
+https://www.youtube.com/watch?v=xZVQtEnqwFo
 
-Korea.net Live || KoreaNet.yt || Education
-https://www.youtube.com/watch?v=ym_Tf2dSWGY
+News18 Rajasthan || News18Rajasthan.yt || News
+https://www.youtube.com/watch?v=Y1n2Ur_rMZg
 
-Sky News || SkyNews.yt || News
-https://www.youtube.com/watch?v=9Auq9mYxFEE
+DD News || DDnews.yt || News
+https://www.youtube.com/watch?v=9bTteEYoX6I
 
-France 24 (English) || France24En.yt || News
-https://www.youtube.com/watch?v=tkDUSYHoKxE
+CNBC Awaaz || cnbcawaaz.yt || News
+https://www.youtube.com/watch?v=hP--NMgWpt8
 
-CGTN Europe || CGTN Europe.yt || News
-https://www.youtube.com/watch?v=UP5z9dRC6RU
+News18 India || news18india.yt || News
+https://www.youtube.com/watch?v=Io-G_aiF8HA
 
-CNA || CNA.yt || News
-https://www.youtube.com/watch?v=XWq5kBlakcQ
+Republic Bharat || RepublicBharat.yt || News
+https://www.youtube.com/watch?v=3DbTO_AMhhc
 
-ABC News (US) || ABCNewsUS.yt || News
-https://www.youtube.com/watch?v=OOtxXPaQvoM
+India TV || indiatv.yt || News
+https://www.youtube.com/watch?v=e1FIApIafWE
 
-ABC News (AU) || ABCNewsAU.yt ||  News
-https://www.youtube.com/watch?v=vOTiJkg1voo
+GNT || GoodNewsTodayOfficial.yt || News
+https://www.youtube.com/watch?v=48XByVquIy4
 
-Bloomberg Global || Bloomberg.yt || News
-https://www.youtube.com/watch?v=dp8PhLsUcFE
+Zee News || ZeeNews.yt || News
+https://www.youtube.com/watch?v=WquRAK-XoV4
 
-Euronews || EuronewsEN.yt || News
-https://www.youtube.com/watch?v=pykpO5kQJ98
+Times Now Navbharat || timesnownavbharat.yt || News
+https://www.youtube.com/watch?v=77qMaUtV030
 
-NDTV 24x7 || NDTV.yt || News
+TV9 Bharatvarsh || TV9Bharatvarsh.yt || News
+https://www.youtube.com/watch?v=nSpwwcHVp80
+
+News Nation || NewsNationTV.yt || News
+https://www.youtube.com/watch?v=9BWncKJwWAI
+
+Zee Rajasthan || ZeeRajasthanNews.yt || News
+https://www.youtube.com/watch?v=tdsUUU51kVI
+
+First India TV || firstindiatv.yt || News
+https://www.youtube.com/watch?v=xIlzVdCUPck
+
+Zee Delhi Ncr || ZeeDelhiNcrHaryana.yt || News
+https://www.youtube.com/watch?v=P422wQzW8-A
+
+CNN News18 || cnnnews18.yt || English News
+https://nw18live.cdn.jio.com/bpk-tv/Firstpost_NW18_MOB/output01/index.m3u8
+
+CNN News18 || cnnnews18.yt || English News
+https://www.youtube.com/watch?v=VKGZGQzTTXA
+
+NDTV 24x7 || NDTV.yt || English News
 https://www.youtube.com/watch?v=Nen3UXaWDDE
 
-Al Jazeera English || AlJazeera.yt || News
+Al Jazeera || aljazeeraenglish.yt || International News
 https://www.youtube.com/watch?v=gCNeDWCI0vo
 
-TRT World || TRTWorld.yt || News
+Sky News || SkyNews.yt || International News
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+France 24 (English) || France24En.yt || International News
+https://www.youtube.com/watch?v=tkDUSYHoKxE
+
+CGTN Europe || CGTN Europe.yt || International News
+https://www.youtube.com/watch?v=UP5z9dRC6RU
+
+CNA || CNA.yt || International News
+https://www.youtube.com/watch?v=XWq5kBlakcQ
+
+ABC News (US) || ABCNewsUS.yt || International News
+https://www.youtube.com/watch?v=OOtxXPaQvoM
+
+ABC News (AU) || ABCNewsAU.yt ||  International News
+https://www.youtube.com/watch?v=vOTiJkg1voo
+
+Bloomberg Global || Bloomberg.yt || International News
+https://www.youtube.com/watch?v=dp8PhLsUcFE
+
+Euronews || EuronewsEN.yt || International News
+https://www.youtube.com/watch?v=pykpO5kQJ98
+
+Al Jazeera English || AlJazeera.yt || International News
+https://www.youtube.com/watch?v=gCNeDWCI0vo
+
+TRT World || TRTWorld.yt || International News
 https://www.youtube.com/watch?v=5VF4aor94gw
 
-CNBC Marathon || CNBCMarathon.yt || News
+CNBC Marathon || CNBCMarathon.yt || International News
 https://www.youtube.com/watch?v=9NyxcX3rhQs
 
-DW News || DWNews.yt || News
+DW News || DWNews.yt || International News
 https://www.youtube.com/watch?v=pqabxBKzZ6M
 
-NHK World Japan || NHKWorld.yt || News
+NHK World Japan || NHKWorld.yt || International News
 https://www.youtube.com/watch?v=f0lYkdA-Gtw
 
-Relaxing Jazz Piano Radio || JazzRadio.yt || Music
-https://www.youtube.com/watch?v=Dx5qFachd3A
-
-Epidemic Pop || EpidemicPop.yt || Music
-https://www.youtube.com/watch?v=wrEckgZZapI
-
-TOKYO Cafe || TokyoCafe.yt || Music
-https://www.youtube.com/watch?v=6uddGul0oAc
-
-Rainy Jazz: Relaxing Jazz & Bossa Nova Music Radio || RainyJazz.yt || Music
-https://www.youtube.com/watch?v=DSGyEsJ17cI
-
-Little Soul: Music to put you in a better mood || LittleSoul.yt || Music
-https://www.youtube.com/watch?v=XstikgbeTPI
-
-Lofi Girl: lofi hip hop radio (beats to relax/study to) || LofiGirl1.yt || Music
-https://www.youtube.com/watch?v=jfKfPfyJRdk
-
-Lofi Girl: lofi hip hop radio (beats to sleep/chill to) || LofiGirl2.yt || Music
-https://www.youtube.com/watch?v=rUxyKA_-grg
-
-Jazz Cafe Ambience || JazzCafeAmbience.yt || Music
-https://www.youtube.com/watch?v=AEKtQW93OVg
-
-Abao in Tokyo: jazz/lofi hip hop radio || AbaoInTokyo.yt || Music
-https://www.youtube.com/watch?v=HAZoLuME-PU
-
-The Good Life Radio || GoodLifeRadio.yt || Music
-https://www.youtube.com/watch?v=36YnV9STBqc
-
-Vibing with KPop with KBS WORLD TV || KBSWorldKPop.yt || Music
-https://www.youtube.com/watch?v=6OSR_exBXQc
-
-KBS KOREA Live || KBSKorea.yt || News
+KBS KOREA Live || KBSKorea.yt || International News
 https://www.youtube.com/watch?v=OxQQsIvJTTU
-
-FeelingInTheBeat Radio || FeelingInTheBeat.yt || Music
-https://www.youtube.com/watch?v=Ix3kXeAyXfA
 
 NASA Starbase Live || NASALive.yt || Live
 https://www.youtube.com/watch?v=mhJRzQsLZGg
-
-渋谷スクランブル交差点 Shibuya Scramble Crossing Live Camera || ShibuyaScramble.yt || Live
-https://www.youtube.com/watch?v=3kPH7kTphnE
