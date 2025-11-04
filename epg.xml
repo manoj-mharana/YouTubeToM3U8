@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="NewsNationTV.yt">
+    <display-name lang="en">News Nation</display-name>
+  </channel>
+  <programme channel="NewsNationTV.yt" start="20251104010000 +0000" stop="20251104040000 +0000">
+    <title lang="en">News Nation LIVE TV: ICC Women's World Cup | IND Beats SA | PM Modi | Bihar Election | Hindi News</title>
+    <desc lang="en">News Nation LIVE TV: ICC Women's World Cup | IND Beats SA | PM Modi | Bihar Election | Hindi News Live| Tejashwi Yadav | PM Modi | Live News | Latest News | ...</desc>
+    <icon src="https://i.ytimg.com/vi/9BWncKJwWAI/maxresdefault.jpg?v=690387fb"/>
+  </programme>
+  <programme channel="NewsNationTV.yt" start="20251104040000 +0000" stop="20251104070000 +0000">
+    <title lang="en">News Nation LIVE TV: ICC Women's World Cup | IND Beats SA | PM Modi | Bihar Election | Hindi News</title>
+    <desc lang="en">News Nation LIVE TV: ICC Women's World Cup | IND Beats SA | PM Modi | Bihar Election | Hindi News Live| Tejashwi Yadav | PM Modi | Live News | Latest News | ...</desc>
+    <icon src="https://i.ytimg.com/vi/9BWncKJwWAI/maxresdefault.jpg?v=690387fb"/>
+  </programme>
+  <programme channel="NewsNationTV.yt" start="20251104070000 +0000" stop="20251104100000 +0000">
+    <title lang="en">News Nation LIVE TV: ICC Women's World Cup | IND Beats SA | PM Modi | Bihar Election | Hindi News</title>
+    <desc lang="en">News Nation LIVE TV: ICC Women's World Cup | IND Beats SA | PM Modi | Bihar Election | Hindi News Live| Tejashwi Yadav | PM Modi | Live News | Latest News | ...</desc>
+    <icon src="https://i.ytimg.com/vi/9BWncKJwWAI/maxresdefault.jpg?v=690387fb"/>
+  </programme>
+  <programme channel="NewsNationTV.yt" start="20251104100000 +0000" stop="20251104130000 +0000">
+    <title lang="en">News Nation LIVE TV: ICC Women's World Cup | IND Beats SA | PM Modi | Bihar Election | Hindi News</title>
+    <desc lang="en">News Nation LIVE TV: ICC Women's World Cup | IND Beats SA | PM Modi | Bihar Election | Hindi News Live| Tejashwi Yadav | PM Modi | Live News | Latest News | ...</desc>
+    <icon src="https://i.ytimg.com/vi/9BWncKJwWAI/maxresdefault.jpg?v=690387fb"/>
+  </programme>
+  <programme channel="NewsNationTV.yt" start="20251104130000 +0000" stop="20251104160000 +0000">
+    <title lang="en">News Nation LIVE TV: ICC Women's World Cup | IND Beats SA | PM Modi | Bihar Election | Hindi News</title>
+    <desc lang="en">News Nation LIVE TV: ICC Women's World Cup | IND Beats SA | PM Modi | Bihar Election | Hindi News Live| Tejashwi Yadav | PM Modi | Live News | Latest News | ...</desc>
+    <icon src="https://i.ytimg.com/vi/9BWncKJwWAI/maxresdefault.jpg?v=690387fb"/>
+  </programme>
+  <programme channel="NewsNationTV.yt" start="20251104160000 +0000" stop="20251104190000 +0000">
+    <title lang="en">News Nation LIVE TV: ICC Women's World Cup | IND Beats SA | PM Modi | Bihar Election | Hindi News</title>
+    <desc lang="en">News Nation LIVE TV: ICC Women's World Cup | IND Beats SA | PM Modi | Bihar Election | Hindi News Live| Tejashwi Yadav | PM Modi | Live News | Latest News | ...</desc>
+    <icon src="https://i.ytimg.com/vi/9BWncKJwWAI/maxresdefault.jpg?v=690387fb"/>
+  </programme>
+  <programme channel="NewsNationTV.yt" start="20251104190000 +0000" stop="20251104220000 +0000">
+    <title lang="en">News Nation LIVE TV: ICC Women's World Cup | IND Beats SA | PM Modi | Bihar Election | Hindi News</title>
+    <desc lang="en">News Nation LIVE TV: ICC Women's World Cup | IND Beats SA | PM Modi | Bihar Election | Hindi News Live| Tejashwi Yadav | PM Modi | Live News | Latest News | ...</desc>
+    <icon src="https://i.ytimg.com/vi/9BWncKJwWAI/maxresdefault.jpg?v=690387fb"/>
+  </programme>
+  <programme channel="NewsNationTV.yt" start="20251104220000 +0000" stop="20251105010000 +0000">
+    <title lang="en">News Nation LIVE TV: ICC Women's World Cup | IND Beats SA | PM Modi | Bihar Election | Hindi News</title>
+    <desc lang="en">News Nation LIVE TV: ICC Women's World Cup | IND Beats SA | PM Modi | Bihar Election | Hindi News Live| Tejashwi Yadav | PM Modi | Live News | Latest News | ...</desc>
+    <icon src="https://i.ytimg.com/vi/9BWncKJwWAI/maxresdefault.jpg?v=690387fb"/>
+  </programme>
+</tv>
