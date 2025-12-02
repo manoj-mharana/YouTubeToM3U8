@@ -88,7 +88,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="EuronewsEN.yt" tvg-name="Euronews" group-title="International News", Euronews
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764661433/ei/WUQuaeLFLefgkucPiKKTuQM/ip/172.178.119.20/id/pykpO5kQJ98.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AdEuB5ROntQMn85H2W2a_ICO-AeJrd1qZ6Tf3R1DiZbW_efFWMTq4uusbZBiWdJ0bTpp2Wj-pwxl_OVS/spc/6b0G_PihTKBfl1SgUIWFJljw-ysvJ5UOfjBLf3p-bqzTw2klrIvqczLkbIcD2n5_cLw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ3eJvJhqRlTiRdHe4Y2YebNLMmHUcYXhHcWXKvsZK4bAiBR6WMrENlq42R8I12TqpSPll_CjgQs1z8SsEwOdIx22w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.yt" tvg-name="Al Jazeera English" group-title="International News", Al Jazeera English
 https://www.youtube.com/watch?v=1oh9IEwBbFY
