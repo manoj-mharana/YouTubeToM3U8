@@ -76,7 +76,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="CNA.yt" tvg-name="CNA" group-title="International News", CNA
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765565215/ei/vw48aZvTHITDybgP3YHEmAg/ip/172.184.174.120/id/XWq5kBlakcQ.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3CdCA8PXmgufOElrDqr56NWa4rMSlIpGP26EwVXdjJG5XmQIv433Ijc1Brj5vSlD0ZnogBSmpdO/spc/wH4Qq0RN3ciDXzX198wwe1nNEJ-so1Q5NnxiAj1w_IK0zw2Jy9A01F2VADJvE6Qq14U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMdx4OTNHa6aBC791C_CYPRSeVE3Sw9Y3JzR4921MP-dAiBfPaorBa4cpMfoLTtCmOtIz4FCRdOx0UgcsFt83_c5Yg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsUS.yt" tvg-name="ABC News (US)" group-title="International News", ABC News (US)
 https://www.youtube.com/watch?v=1oh9IEwBbFY
