@@ -106,7 +106,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="KBSKorea.yt" tvg-name="KBS KOREA Live" group-title="International News", KBS KOREA Live
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769162718/ei/fvNyafqAEqLeybgP-_-mkA0/ip/64.236.140.177/id/OxQQsIvJTTU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666465/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AW-iu_oXPFqHedPbfm3fxGwR4yWV5PG2PlOj6LUWI8BkjmZ7sgNCtgB1H89uG1rTWHIFNneBogs2DVJy/spc/q5xjPP9FcontWAgtfSryWBVkIsO-W2Bq3jHBg_wiiqY2MrpE9mU5p0A3PIzG4607qfXCTA/vprv/1/go/1/ns/STmC9CbtngoeGOy5oDx61LcS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/l--KJFeLfZ4NJChe/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAP81gUlu74Actm2nlOCM4jQvy0fCd_SQ3sNNTRgiHfYGAiBp7e4CaQwvVBWT8AzlOh4-q7-HvTiHgKIQ5bQg4Dal-g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="NASALive.yt" tvg-name="NASA Starbase Live" group-title="Live", NASA Starbase Live
 https://www.youtube.com/watch?v=1oh9IEwBbFY
