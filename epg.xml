@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="TV9Bharatvarsh.yt">
+    <display-name lang="en">TV9 Bharatvarsh</display-name>
+  </channel>
+  <programme channel="TV9Bharatvarsh.yt" start="20260129180000 +0000" stop="20260129210000 +0000">
+    <title lang="en">TV9 Bharatvarsh Live: Ajit Pawar Death News Updates | Budget Session | PM Modi | Nirmala Sitharaman</title>
+    <desc lang="en">TV9 Bharatvarsh Live: Ajit Pawar Death News Updates | Budget Session | PM Modi | Nirmala Sitharamanआज पंचतत्व में विलीन होंगे अजीत पवार...सुबह 11 बजे बारामती...</desc>
+    <icon src="https://i.ytimg.com/vi/nSpwwcHVp80/maxresdefault.jpg?v=6975c20a"/>
+  </programme>
+  <programme channel="TV9Bharatvarsh.yt" start="20260129210000 +0000" stop="20260130000000 +0000">
+    <title lang="en">TV9 Bharatvarsh Live: Ajit Pawar Death News Updates | Budget Session | PM Modi | Nirmala Sitharaman</title>
+    <desc lang="en">TV9 Bharatvarsh Live: Ajit Pawar Death News Updates | Budget Session | PM Modi | Nirmala Sitharamanआज पंचतत्व में विलीन होंगे अजीत पवार...सुबह 11 बजे बारामती...</desc>
+    <icon src="https://i.ytimg.com/vi/nSpwwcHVp80/maxresdefault.jpg?v=6975c20a"/>
+  </programme>
+  <programme channel="TV9Bharatvarsh.yt" start="20260130000000 +0000" stop="20260130030000 +0000">
+    <title lang="en">TV9 Bharatvarsh Live: Ajit Pawar Death News Updates | Budget Session | PM Modi | Nirmala Sitharaman</title>
+    <desc lang="en">TV9 Bharatvarsh Live: Ajit Pawar Death News Updates | Budget Session | PM Modi | Nirmala Sitharamanआज पंचतत्व में विलीन होंगे अजीत पवार...सुबह 11 बजे बारामती...</desc>
+    <icon src="https://i.ytimg.com/vi/nSpwwcHVp80/maxresdefault.jpg?v=6975c20a"/>
+  </programme>
+  <programme channel="TV9Bharatvarsh.yt" start="20260130030000 +0000" stop="20260130060000 +0000">
+    <title lang="en">TV9 Bharatvarsh Live: Ajit Pawar Death News Updates | Budget Session | PM Modi | Nirmala Sitharaman</title>
+    <desc lang="en">TV9 Bharatvarsh Live: Ajit Pawar Death News Updates | Budget Session | PM Modi | Nirmala Sitharamanआज पंचतत्व में विलीन होंगे अजीत पवार...सुबह 11 बजे बारामती...</desc>
+    <icon src="https://i.ytimg.com/vi/nSpwwcHVp80/maxresdefault.jpg?v=6975c20a"/>
+  </programme>
+  <programme channel="TV9Bharatvarsh.yt" start="20260130060000 +0000" stop="20260130090000 +0000">
+    <title lang="en">TV9 Bharatvarsh Live: Ajit Pawar Death News Updates | Budget Session | PM Modi | Nirmala Sitharaman</title>
+    <desc lang="en">TV9 Bharatvarsh Live: Ajit Pawar Death News Updates | Budget Session | PM Modi | Nirmala Sitharamanआज पंचतत्व में विलीन होंगे अजीत पवार...सुबह 11 बजे बारामती...</desc>
+    <icon src="https://i.ytimg.com/vi/nSpwwcHVp80/maxresdefault.jpg?v=6975c20a"/>
+  </programme>
+  <programme channel="TV9Bharatvarsh.yt" start="20260130090000 +0000" stop="20260130120000 +0000">
+    <title lang="en">TV9 Bharatvarsh Live: Ajit Pawar Death News Updates | Budget Session | PM Modi | Nirmala Sitharaman</title>
+    <desc lang="en">TV9 Bharatvarsh Live: Ajit Pawar Death News Updates | Budget Session | PM Modi | Nirmala Sitharamanआज पंचतत्व में विलीन होंगे अजीत पवार...सुबह 11 बजे बारामती...</desc>
+    <icon src="https://i.ytimg.com/vi/nSpwwcHVp80/maxresdefault.jpg?v=6975c20a"/>
+  </programme>
+  <programme channel="TV9Bharatvarsh.yt" start="20260130120000 +0000" stop="20260130150000 +0000">
+    <title lang="en">TV9 Bharatvarsh Live: Ajit Pawar Death News Updates | Budget Session | PM Modi | Nirmala Sitharaman</title>
+    <desc lang="en">TV9 Bharatvarsh Live: Ajit Pawar Death News Updates | Budget Session | PM Modi | Nirmala Sitharamanआज पंचतत्व में विलीन होंगे अजीत पवार...सुबह 11 बजे बारामती...</desc>
+    <icon src="https://i.ytimg.com/vi/nSpwwcHVp80/maxresdefault.jpg?v=6975c20a"/>
+  </programme>
+  <programme channel="TV9Bharatvarsh.yt" start="20260130150000 +0000" stop="20260130180000 +0000">
+    <title lang="en">TV9 Bharatvarsh Live: Ajit Pawar Death News Updates | Budget Session | PM Modi | Nirmala Sitharaman</title>
+    <desc lang="en">TV9 Bharatvarsh Live: Ajit Pawar Death News Updates | Budget Session | PM Modi | Nirmala Sitharamanआज पंचतत्व में विलीन होंगे अजीत पवार...सुबह 11 बजे बारामती...</desc>
+    <icon src="https://i.ytimg.com/vi/nSpwwcHVp80/maxresdefault.jpg?v=6975c20a"/>
+  </programme>
+</tv>
