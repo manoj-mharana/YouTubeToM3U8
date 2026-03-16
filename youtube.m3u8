@@ -103,7 +103,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="NHKWorld.yt" tvg-name="NHK World Japan" group-title="International News", NHK World Japan
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773709425/ei/EVS4aar8MoGtir4PjJWx0QU/ip/135.232.208.113/id/f0lYkdA-Gtw.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51794322/txs/51794322%2C51794323%2C51794324/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-yavg9ZVMgOV09SHOek-nr-pdPDlXnMiM3egHEexwFA8hENc8G37ti_wWgt5GeyFXtiTyRrTQ9z/spc/6dlaFKyXqfZmKfNTo3s4cpIHiIxIAtqhGUylpDJXHchhKEaGYbAX0q-_y6Ljuhre1blTPw/vprv/1/go/1/ns/GPEuMbmGCC1SAXwVXJ3ExdsT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51791334/dover/11/n/6mfG_lAre5anoUDdLDq/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhANKAGxEAgAHAS3PU2nB3gLAwe1z3tVcen7gxxWC3ylQrAiBFbXlgQY873KgqgtTStAeRygDd1Q8RRQhn5DhnfW2RDQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="KBSKorea.yt" tvg-name="KBS KOREA Live" group-title="International News", KBS KOREA Live
 https://www.youtube.com/watch?v=1oh9IEwBbFY
