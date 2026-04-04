@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="CNBCMarathon.yt">
+    <display-name lang="en">CNBC Marathon</display-name>
+  </channel>
+  <programme channel="CNBCMarathon.yt" start="20260404150000 +0100" stop="20260404180000 +0100">
+    <title lang="en">LIVE: CNBC Marathon - Documentaries and deep dives 24/7</title>
+    <desc lang="en">From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered. Tune in for exclusive videos focuse...</desc>
+    <icon src="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault.jpg?v=693d70bd"/>
+  </programme>
+  <programme channel="CNBCMarathon.yt" start="20260404180000 +0100" stop="20260404210000 +0100">
+    <title lang="en">LIVE: CNBC Marathon - Documentaries and deep dives 24/7</title>
+    <desc lang="en">From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered. Tune in for exclusive videos focuse...</desc>
+    <icon src="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault.jpg?v=693d70bd"/>
+  </programme>
+  <programme channel="CNBCMarathon.yt" start="20260404210000 +0100" stop="20260405000000 +0100">
+    <title lang="en">LIVE: CNBC Marathon - Documentaries and deep dives 24/7</title>
+    <desc lang="en">From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered. Tune in for exclusive videos focuse...</desc>
+    <icon src="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault.jpg?v=693d70bd"/>
+  </programme>
+  <programme channel="CNBCMarathon.yt" start="20260405000000 +0100" stop="20260405030000 +0100">
+    <title lang="en">LIVE: CNBC Marathon - Documentaries and deep dives 24/7</title>
+    <desc lang="en">From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered. Tune in for exclusive videos focuse...</desc>
+    <icon src="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault.jpg?v=693d70bd"/>
+  </programme>
+  <programme channel="CNBCMarathon.yt" start="20260405030000 +0100" stop="20260405060000 +0100">
+    <title lang="en">LIVE: CNBC Marathon - Documentaries and deep dives 24/7</title>
+    <desc lang="en">From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered. Tune in for exclusive videos focuse...</desc>
+    <icon src="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault.jpg?v=693d70bd"/>
+  </programme>
+  <programme channel="CNBCMarathon.yt" start="20260405060000 +0100" stop="20260405090000 +0100">
+    <title lang="en">LIVE: CNBC Marathon - Documentaries and deep dives 24/7</title>
+    <desc lang="en">From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered. Tune in for exclusive videos focuse...</desc>
+    <icon src="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault.jpg?v=693d70bd"/>
+  </programme>
+  <programme channel="CNBCMarathon.yt" start="20260405090000 +0100" stop="20260405120000 +0100">
+    <title lang="en">LIVE: CNBC Marathon - Documentaries and deep dives 24/7</title>
+    <desc lang="en">From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered. Tune in for exclusive videos focuse...</desc>
+    <icon src="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault.jpg?v=693d70bd"/>
+  </programme>
+  <programme channel="CNBCMarathon.yt" start="20260405120000 +0100" stop="20260405150000 +0100">
+    <title lang="en">LIVE: CNBC Marathon - Documentaries and deep dives 24/7</title>
+    <desc lang="en">From 'Wall Street' to 'Main Street' to award winning original documentaries and digital deep dives, CNBC has you covered. Tune in for exclusive videos focuse...</desc>
+    <icon src="https://i.ytimg.com/vi/9NyxcX3rhQs/maxresdefault.jpg?v=693d70bd"/>
+  </programme>
+</tv>
