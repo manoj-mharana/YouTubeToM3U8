@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="news18india.yt">
+    <display-name lang="en">News18 India</display-name>
+  </channel>
+  <programme channel="news18india.yt" start="20260427020000 +0100" stop="20260427050000 +0100">
+    <title lang="en">🔴News18 India LIVE TV: US Iran War | PM Modi | Bengal Election |TMC VS BJP | Trump | 27 April News</title>
+    <desc lang="en">🔴News18 India LIVE TV: US Iran War | PM Modi | Bengal Election |TMC VS BJP | Donald Trump | 27 April News 27 April Live News: A shooting attempt disrupted U...</desc>
+    <icon src="https://i.ytimg.com/vi/Io-G_aiF8HA/maxresdefault.jpg?v=69ee5e46"/>
+  </programme>
+  <programme channel="news18india.yt" start="20260427050000 +0100" stop="20260427080000 +0100">
+    <title lang="en">🔴News18 India LIVE TV: US Iran War | PM Modi | Bengal Election |TMC VS BJP | Trump | 27 April News</title>
+    <desc lang="en">🔴News18 India LIVE TV: US Iran War | PM Modi | Bengal Election |TMC VS BJP | Donald Trump | 27 April News 27 April Live News: A shooting attempt disrupted U...</desc>
+    <icon src="https://i.ytimg.com/vi/Io-G_aiF8HA/maxresdefault.jpg?v=69ee5e46"/>
+  </programme>
+  <programme channel="news18india.yt" start="20260427080000 +0100" stop="20260427110000 +0100">
+    <title lang="en">🔴News18 India LIVE TV: US Iran War | PM Modi | Bengal Election |TMC VS BJP | Trump | 27 April News</title>
+    <desc lang="en">🔴News18 India LIVE TV: US Iran War | PM Modi | Bengal Election |TMC VS BJP | Donald Trump | 27 April News 27 April Live News: A shooting attempt disrupted U...</desc>
+    <icon src="https://i.ytimg.com/vi/Io-G_aiF8HA/maxresdefault.jpg?v=69ee5e46"/>
+  </programme>
+  <programme channel="news18india.yt" start="20260427110000 +0100" stop="20260427140000 +0100">
+    <title lang="en">🔴News18 India LIVE TV: US Iran War | PM Modi | Bengal Election |TMC VS BJP | Trump | 27 April News</title>
+    <desc lang="en">🔴News18 India LIVE TV: US Iran War | PM Modi | Bengal Election |TMC VS BJP | Donald Trump | 27 April News 27 April Live News: A shooting attempt disrupted U...</desc>
+    <icon src="https://i.ytimg.com/vi/Io-G_aiF8HA/maxresdefault.jpg?v=69ee5e46"/>
+  </programme>
+  <programme channel="news18india.yt" start="20260427140000 +0100" stop="20260427170000 +0100">
+    <title lang="en">🔴News18 India LIVE TV: US Iran War | PM Modi | Bengal Election |TMC VS BJP | Trump | 27 April News</title>
+    <desc lang="en">🔴News18 India LIVE TV: US Iran War | PM Modi | Bengal Election |TMC VS BJP | Donald Trump | 27 April News 27 April Live News: A shooting attempt disrupted U...</desc>
+    <icon src="https://i.ytimg.com/vi/Io-G_aiF8HA/maxresdefault.jpg?v=69ee5e46"/>
+  </programme>
+  <programme channel="news18india.yt" start="20260427170000 +0100" stop="20260427200000 +0100">
+    <title lang="en">🔴News18 India LIVE TV: US Iran War | PM Modi | Bengal Election |TMC VS BJP | Trump | 27 April News</title>
+    <desc lang="en">🔴News18 India LIVE TV: US Iran War | PM Modi | Bengal Election |TMC VS BJP | Donald Trump | 27 April News 27 April Live News: A shooting attempt disrupted U...</desc>
+    <icon src="https://i.ytimg.com/vi/Io-G_aiF8HA/maxresdefault.jpg?v=69ee5e46"/>
+  </programme>
+  <programme channel="news18india.yt" start="20260427200000 +0100" stop="20260427230000 +0100">
+    <title lang="en">🔴News18 India LIVE TV: US Iran War | PM Modi | Bengal Election |TMC VS BJP | Trump | 27 April News</title>
+    <desc lang="en">🔴News18 India LIVE TV: US Iran War | PM Modi | Bengal Election |TMC VS BJP | Donald Trump | 27 April News 27 April Live News: A shooting attempt disrupted U...</desc>
+    <icon src="https://i.ytimg.com/vi/Io-G_aiF8HA/maxresdefault.jpg?v=69ee5e46"/>
+  </programme>
+  <programme channel="news18india.yt" start="20260427230000 +0100" stop="20260428020000 +0100">
+    <title lang="en">🔴News18 India LIVE TV: US Iran War | PM Modi | Bengal Election |TMC VS BJP | Trump | 27 April News</title>
+    <desc lang="en">🔴News18 India LIVE TV: US Iran War | PM Modi | Bengal Election |TMC VS BJP | Donald Trump | 27 April News 27 April Live News: A shooting attempt disrupted U...</desc>
+    <icon src="https://i.ytimg.com/vi/Io-G_aiF8HA/maxresdefault.jpg?v=69ee5e46"/>
+  </programme>
+</tv>
